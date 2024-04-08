@@ -3,8 +3,8 @@
 #include <WiFiClientSecure.h> // Use WiFiClientSecure for HTTPS
 #include <UrlEncode.h>
 
-const char* ssid = "$indhu";
-const char* password = "12345678";
+const char* ssid = "Sunantha";//your hotspot name
+const char* password = "1234";//your hotspot password
 const char* chatId = "YOUR_CHAT_ID"; // Replace with your Telegram chat ID
 const char* botToken = "YOUR_BOT_TOKEN"; // Replace with your Telegram bot token
 
